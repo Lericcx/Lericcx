@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Lericcx and I'm a Front End Developer from Your Heart <3</h2>
+<h2 align="left">Hi 👋! My name is Lericcx<br> and I'm a Frontend Developer from your Heart <3</h2>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -20,10 +24,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -35,12 +35,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Lericcx/Lericcx/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lericcx.Lericcx&"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lericcx/Lericcx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lericcx/Lericcx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lericcx/Lericcx/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
